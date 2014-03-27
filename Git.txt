@@ -1,0 +1,4 @@
+git status
+git add arquivo
+git commit -m "mensagem"
+git push

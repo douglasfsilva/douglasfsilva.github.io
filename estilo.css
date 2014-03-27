@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+}
+
+
+#head {
+	background-image: url(img/foto.jpg);
+	background-repeat: no-repeat;
+	background-size: ;
+	background-color:whide;
+	text-align: ;
+	border: 1px solid #000000;
+	padding: 80px  0px;
+}
+
+
+#head span {
+margin-left: 140px;
+}
